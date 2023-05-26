@@ -1,1 +1,1 @@
-## Minecraft Plugin
+# Minecraft Plugin
